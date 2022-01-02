@@ -10,6 +10,8 @@
   "author": "dwakahia",
   "license": "ISC",
   "dependencies": {
-    "foundation-sites": "^6.7.4"
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "foundation-sites": "^6.7.4",
+    "jquery": "^3.6.0"
   }
 }
