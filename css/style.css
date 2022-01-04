@@ -3,7 +3,7 @@
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
-@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Condensed:ital,wght@1,300&family=Source+Sans+Pro:wght@300&display=swap");
 .fa,
 .fas,
 .far,
@@ -4613,20 +4613,8 @@ readers do not read off random characters that represent icons */
   font-family: 'Font Awesome 5 Free';
   font-weight: 400; }
 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (max-width: 768px) {
-  .example {
-    background: red; } }
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-  .example {
-    background: blue; } }
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-  .example {
-    background: orange; } }
+* {
+  font-family: 'Source Sans Pro', sans-serif; }
 
 html, body {
   margin: 0;
@@ -4761,7 +4749,7 @@ html, body {
 .decorated-text {
   background-image: linear-gradient(to right, #FF943D, #D8465B);
   -webkit-background-clip: text;
-  font-size: 50px;
+  font-size: 35px;
   color: transparent; }
 
 .subheader {
@@ -4859,7 +4847,7 @@ a i {
   max-height: 200px; }
 
 .experience .explanation-text {
-  font-size: 25px;
+  font-size: 20px;
   color: #ffffff; }
 
 @media only screen and (max-width: 768px) {
